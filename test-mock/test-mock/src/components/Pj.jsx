@@ -15,7 +15,7 @@ const Pj = () => {
       <div>
       <h2>Id pj: {params.id}</h2>
       <p>Nombre: {pj.name} </p>
-      <img src={pj.image} alt=''/>
+      <img src={pj.avatar} alt=''/>
       </div>
       ) : ('No hay personaje')}
     </>
