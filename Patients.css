@@ -1,0 +1,159 @@
+.custom-btn {
+  background-color: #FF673B !important;
+  border-radius: 40px !important;
+  width: 287px;
+  height: 66px;
+  padding: 10px 30px;
+  border: none !important;
+  font-family: 'Inter' !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  line-height: 29px !important;
+}
+
+.custom-btn:hover {
+  background-color: #EB6F4B !important; 
+  color: #fff; 
+  box-shadow: 0 0 10px rgb(255, 99, 54); 
+}
+
+h6 {
+  font-family: 'Inter' !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.new-modal .modal-dialog {
+  max-width: 992px !important;
+}
+
+.new-modal .modal-content {
+  border: none;
+  border-radius: 40px;
+  height: 497px !important;
+  width: 992px !important;
+  text-align: center !important;
+}
+
+.lunita {
+  border: none;
+  border-radius: 30px;
+  max-width: auto;
+}
+
+.css-lunita {
+  width: 152px !important;
+  height: 157px !important;
+  background-color: #E2FCFF !important;
+  border: none !important;
+  border-radius: 20px !important;
+  max-width: auto;
+}
+
+.num-Left{
+  text-align: right;
+}
+
+.numero-presionado {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 42px !important;
+  border-radius: 50px;
+  height: 42px;
+  text-align: center !important;
+  border: 3px solid #FFFFFF;
+  background-color: #1C7FD9;;
+  font-size: 24px;
+  font-family: 'Inter' !important;
+  font-weight: 800px;
+  font-style: normal;
+}
+
+.css-lunita:hover {
+  background-color: #B1D7F2 !important;
+}
+
+.arbolito {
+  border: none;
+  border-radius: 30px;
+  max-width: 100%;
+}
+
+.css-arbolito {
+  width: 152px !important;
+  height: 157px !important;
+  background-color: #E2FFEE !important;
+  border: none !important;
+  border-radius: 20px !important;
+  max-width: auto !important;
+}
+
+.css-arbolito:hover {
+  background-color: #C7F2D9 !important;
+}
+
+
+.solicito {
+  border: none;
+  border-radius: 30px;
+  max-width: auto;
+}
+
+.css-solicito {
+  width: 152px !important;
+  height: 157px !important;
+  background-color: #FFFAE2 !important;
+  border: none !important;
+  border-radius: 20px !important;
+  max-width: auto !important;
+}
+
+.css-solicito:hover {
+  background-color: #F0EAD1 !important;
+}
+
+.gatito {
+  border: none;
+  border-radius: 30px;
+  max-width: auto;
+}
+
+.css-gatito {
+  width: 152px !important;
+  height: 157px !important;
+  background-color: #EBE2FF !important;
+  border: none !important;
+  border-radius: 20px !important;
+  max-width: auto !important;
+}
+
+.css-gatito:hover {
+  background-color: #DECEF0 !important;
+}
+
+
+.perrito {
+  border: none;
+  border-radius: 30px;
+  max-width: auto;
+}
+
+.css-perrito {
+  width: 152px !important;
+  height: 157px !important;
+  background-color: #FFE2E2 !important;
+  border: none !important;
+  border-radius: 20px !important;
+  max-width: auto !important;
+}
+
+.css-perrito:hover {
+  background-color: #FFABAB !important;
+}
+
+.init-Sesion {
+  padding-top: 30px;
+}
